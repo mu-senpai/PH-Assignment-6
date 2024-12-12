@@ -53,7 +53,7 @@ Peddy is a modern, responsive web application for pet adoption that allows users
 
 ## Deployment
 
-A live version of the project is available here: **[Peddy - Live Demo](#)**
+A live version of the project is available here: **[Peddy - Live Demo](https://assignment-6-mu-senpai.netlify.app/)**
 
 ## How to Use
 
